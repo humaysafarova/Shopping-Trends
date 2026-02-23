@@ -25,10 +25,10 @@ This project explores customer shopping behavior to analyze purchasing patterns,
 2. Navigate into the project folder:
    ```bash
    cd Shopping-Trends
-3.Install required packages (if needed):
+3. Install required packages (if needed):
    ```bash
    pip install pandas matplotlib
-```
+   ```
 
 Insights / Key Findings
 
