@@ -3,19 +3,19 @@ This project explores customer shopping behavior to analyze purchasing patterns,
 
 ## Project Overview
 
-• Analyze customer demographic distribution (Age, Gender, Location)
-• Examine purchase amount distribution and spending patterns
-• Explore category and seasonal trends
-• Investigate relationships between purchase frequency and spending
-• Compare review ratings across different customer groups
-• Analyze revenue contribution by payment method
+- Analyze customer demographic distribution (Age, Gender, Location)
+- Examine purchase amount distribution and spending patterns
+- Explore category and seasonal trends
+- Investigate relationships between purchase frequency and spending
+- Compare review ratings across different customer groups
+- Analyze revenue contribution by payment method
 
 ## Tools Used
 
-• Python
-• Pandas
-• Matplotlib
-• Jupyter Notebook
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 
 ## How to Run
 
