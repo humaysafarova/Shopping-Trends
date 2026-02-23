@@ -1,7 +1,7 @@
-🛍 Shopping Trends Analysis 
+# 🛍 Shopping Trends Analysis 
 This project explores customer shopping behavior to analyze purchasing patterns, spending distribution, customer demographics, and revenue insights.
 
-Project Overview
+## Project Overview
 
 • Analyze customer demographic distribution (Age, Gender, Location)
 • Examine purchase amount distribution and spending patterns
@@ -10,14 +10,14 @@ Project Overview
 • Compare review ratings across different customer groups
 • Analyze revenue contribution by payment method
 
-Tools Used
+## Tools Used
 
 • Python
 • Pandas
 • Matplotlib
 • Jupyter Notebook
 
-How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -26,10 +26,9 @@ How to Run
    ```bash
     cd Shopping-Trends
 3.Install required packages (if needed):
-   ```bash 
+ ```bash 
    pip install pandas matplotlib
 ```
-
 
 Insights / Key Findings
 
