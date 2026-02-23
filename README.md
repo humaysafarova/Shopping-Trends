@@ -24,9 +24,9 @@ This project explores customer shopping behavior to analyze purchasing patterns,
     git clone https://github.com/humaysafarova/Book-Sales-Analysis.git
 2. Navigate into the project folder:
    ```bash
-    cd Shopping-Trends
+   cd Shopping-Trends
 3.Install required packages (if needed):
- ```bash 
+   ```bash
    pip install pandas matplotlib
 ```
 
