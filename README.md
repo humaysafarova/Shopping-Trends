@@ -21,7 +21,7 @@ This project explores customer shopping behavior to analyze purchasing patterns,
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/humaysafarova/Book-Sales-Analysis.git
+    git clone https://github.com/humaysafarova/Shopping-Trends.git
 2. Navigate into the project folder:
    ```bash
    cd Shopping-Trends
